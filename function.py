@@ -1,3 +1,3 @@
 print("Functions")
-print("Functions Fixed")
-print("Functions: Do Bla")
+print("Function: fixed")
+print("Funciotns: Ble")
