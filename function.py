@@ -1,3 +1,3 @@
 print("Functions")
-print("Functions fixed")
-print("Funciotns; Ble")
+print("Function: fixed")
+print("Funciotns: Ble")
